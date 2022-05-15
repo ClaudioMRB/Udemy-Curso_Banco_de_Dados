@@ -1,47 +1,47 @@
-Cursando Programação Orientada a Objetos + Projetos na udemy.com, com aulas ministradas pelo professor Nélio Alves - https://devsuperior.com.br/
+***Cursando Programação Orientada a Objetos + Projetos na udemy.com, com aulas ministradas pelo professor Nélio Alves -*** https://devsuperior.com.br/
 
 
 
- *Os tópicos de programação incluem:
+ ***Os tópicos de programação incluem:***
 
-Lógica de programação e algoritmos
+`Lógica de programação e algoritmos`
 
-Sintaxe da linguagem Java
+`Sintaxe da linguagem Java`
 
-Classes, atributos e métodos
+`Classes, atributos e métodos`
 
-Construtores, sobrecarga, encapsulamento
+`Construtores, sobrecarga, encapsulamento`
 
-Estruturas de dados: arrays e coleções
+`Estruturas de dados: arrays e coleções`
 
-Enumerações, composição
+`Enumerações, composição`
 
-Herança, polimorfismo, interfaces
+`Herança, polimorfismo, interfaces`
 
-Tratamento de exceções
+`Tratamento de exceções`
 
-Generics
+`Generics`
 
-Programação funcional e expressões lambda, Stream API
+`Programação funcional e expressões lambda, Stream API`
 
-Manipulação de arquivos
+`Manipulação de arquivos`
 
 
 
- *principais ferramentas e frameworks
+ ***principais* ferramentas e frameworks**:
 
-JDBC para acesso a dados baseado em SQL
+`JDBC para acesso a dados baseado em SQL`
 
-JavaFX para interface gráfica
+`JavaFX para interface gráfica`
 
-Git / Github para versionamento
+`Git / Github para versionamento`
 
-Spring Boot - principal framework Java para desenvolvimento comercial em Java
+`Spring Boot - principal framework Java para desenvolvimento comercial em Java`
 
-JPA / Hibernate para acesso a dados com mapeamento objeto-relacional (ORM)
+`JPA / Hibernate para acesso a dados com mapeamento objeto-relacional (ORM)`
 
-Maven para gerenciamento de dependências de projeto
+`Maven para gerenciamento de dependências de projeto`
 
-Spring Data JPA - framework para acesso a dados ORM
+`Spring Data JPA - framework para acesso a dados ORM`
 
-Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
+`Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB`

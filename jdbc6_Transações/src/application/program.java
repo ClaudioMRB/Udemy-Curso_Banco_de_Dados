@@ -1,7 +1,6 @@
 package application;
 
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
 
@@ -22,7 +21,7 @@ public class program {
 			
 			st = conn.createStatement();
 			
-			int rows1 = st.executeUpdate("UPDATE seller SET BaseSalary = 2090 WHERE DepartmentId = 1 ");
+			int rows1 = st.executeUpdate("UPDATE seller SET BaseSalary = 90 WHERE DepartmentId = 1 ");
 			
 			//int x = 1;
 			//if(x < 2) {
@@ -30,7 +29,7 @@ public class program {
 				
 			//}
 			
-			int rows2 = st.executeUpdate("UPDATE seller SET BaseSalary = 3090 WHERE DepartmentId = 2 ");
+			int rows2 = st.executeUpdate("UPDATE seller SET BaseSalary = 80 WHERE DepartmentId = 2 ");
 			
 			//confirmar que a transação confirmou
 			conn.commit();
